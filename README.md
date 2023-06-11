@@ -1,4 +1,4 @@
 # ML_Gradient_Descent
-Gradient Descent: Concept &amp; Manual Python Implementation (Project still in progress)
+Gradient Descent: Concept &amp; Manual Python Implementation
 
-### Article: Coming soon...
+### Article: [Gradient Descent: Concept & Manual Python Implementation](https://medium.com/@viniciusnala/gradient-descent-concept-manual-python-implementation-d8c5f96a6e85)
